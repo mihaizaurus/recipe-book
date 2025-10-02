@@ -1,1 +1,20 @@
+# rust
 /target
+
+# cargo
+
+# build artifacts
+
+# vscode
+.vscode/
+
+# OS/Editor
+.DS_Store
+*.bak
+*.tmp
+
+# frontend
+
+# environment
+config.json*
+!example.config.json

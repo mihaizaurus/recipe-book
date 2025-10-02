@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="lnqcEaN7dKmQNBbQnGVA">
+    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AfuM8XKxh83jBQn8BoJw-1" value="Recipe" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="200" width="360" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AfuM8XKxh83jBQn8BoJw-2" value="Variants" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="490" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AfuM8XKxh83jBQn8BoJw-3" value="Tips" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="435" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="AfuM8XKxh83jBQn8BoJw-4" value="Part A Instructions" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AfuM8XKxh83jBQn8BoJw-5" value="Header" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="230" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfuM8XKxh83jBQn8BoJw-6" value="Ingredients" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="320" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AfuM8XKxh83jBQn8BoJw-7" value="Description - Medium Text" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="270" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AfuM8XKxh83jBQn8BoJw-8" value="Optional Split" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;horizontal=0;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="50" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="AfuM8XKxh83jBQn8BoJw-9" value="Part B Instructions" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="420" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BtiZ9mwBQ5yirtGT4Umm-1" value="Recipe" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BtiZ9mwBQ5yirtGT4Umm-2" value="Ingredient" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
