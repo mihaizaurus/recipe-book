@@ -1,14 +1,4 @@
-# Personal Digital Recipe Book
+# Recipe Book
 
-A personal recipe book to collect what inspires us, what we end up cooking and how we end up making it our own.
-
-## Features
-
-- [ ] inspiration
-- [ ] references
-- [ ] variants (swapped ingredients)
-- [ ] season / locally
-- [ ] tags
-- [ ] tips
-- [ ] history / tracking
-- [ ] pictures
+This is personal recipe book to collect _what inspires us_, _what we end up cooking_ and _what we learn from the process_.
+It is built using Tauri, TypeScript and React.
